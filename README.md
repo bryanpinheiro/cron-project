@@ -11,3 +11,6 @@ yarn install
 ```
 yarn run dev
 ```
+
+## What is it?
+Cron is a tool that we can use to schedule jobs.
